@@ -23,6 +23,12 @@ exports/                 # 3MF exports for slicing and printing
 images/                  # renders, slicer screenshots and print photos
 ```
 
+## Bill of materials
+
+| Part | Specification | Source |
+|---|---|---|
+| Fan | 120 × 120 × 25 mm | [AliExpress](https://fr.aliexpress.com/item/1005007346540421.html) |
+
 ## Design
 
 <!-- TODO: how the part is shaped and why (fan size, filter, knob/PWM controller placement). -->
