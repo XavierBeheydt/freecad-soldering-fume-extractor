@@ -28,6 +28,9 @@ images/                  # renders, slicer screenshots and print photos
 | Part | Specification | Source |
 |---|---|---|
 | Fan | 120 × 120 × 25 mm | [AliExpress](https://fr.aliexpress.com/item/1005007346540421.html) |
+| Fan speed controller | RGEEK DIY 4-pin PWM fan speed adapter, USB-C 5 V to 12 V, max 12 V / 8 W | [AliExpress](https://fr.aliexpress.com/item/1005012992401642.html) |
+| Filter | Activated carbon impregnated sponge foam filter sheet (universal, black) | [AliExpress](https://fr.aliexpress.com/item/1005003090089952.html) |
+| USB-C panel connector | DiviPower USB-C male to female extension cable, screw-lock panel mount, 17.5 mm | [AliExpress](https://fr.aliexpress.com/item/1005008289056623.html) |
 
 ## Design
 
