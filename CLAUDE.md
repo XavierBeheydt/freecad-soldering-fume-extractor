@@ -8,7 +8,8 @@ repository.
 
 This is a personal FreeCAD modeling project, not a software project — there
 is no build, lint, or test tooling. The goal is to design a 3D-printable
-<!-- TODO: one sentence on what the part is and what it does -->, as
+USB-powered soldering fume extractor with a rotary-knob fan speed
+control (housing for the fan, filter and speed-controller knob), as
 described in [README.md](README.md).
 
 ## Repository structure

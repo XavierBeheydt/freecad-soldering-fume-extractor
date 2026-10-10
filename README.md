@@ -1,21 +1,8 @@
-# FreeCAD Project Name
+# Soldering Fume Extractor
 
-<!--
-  Using this template — delete this block once done:
-
-  1. Click "Use this template" on GitHub, name the repo `freecad-<project>`.
-  2. Replace the title, the TODOs below and the TODO in CLAUDE.md.
-  3. Save the model as `cad/<project>.FCStd` and export 3MF files to
-     `exports/` (`<project>.3mf`, then `<project>-<Part>.3mf` per part).
-  4. Put renders, slicer screenshots and print photos in `images/` as PNG
-     (`magick in.jpeg -auto-orient -strip out.png`), then delete the
-     `.gitkeep` files.
-  5. Draft the Printables description in `PRINTABLES.md` (gitignored).
-  6. Tag the first validated print as `v1.0.0`.
--->
-
-Personal project to design a 3D-printable <!-- TODO: what it is --> in
-FreeCAD: <!-- TODO: what it does and why -->.
+Personal project to design a 3D-printable USB soldering fume extractor in
+FreeCAD: a fan housing powered over USB, with a rotary knob to adjust the fan
+speed, that pulls solder fumes away from the work area.
 
 <!--
   If this is a remake or remix, credit the original here, e.g.:
@@ -38,7 +25,7 @@ images/                  # renders, slicer screenshots and print photos
 
 ## Design
 
-<!-- TODO: how the part is shaped and why. -->
+<!-- TODO: how the part is shaped and why (fan size, filter, knob/PWM controller placement). -->
 
 | | |
 |---|---|
